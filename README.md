@@ -28,9 +28,15 @@ git remote remove origin 명령어를 이용하여 연동을 해제할 수 있�
 
 VS Code와 Github를 연동 후 수정한 파일을 Github에 업로드하고 싶다면
 git add .
+
 git commit -m "something"
+
 git push origin master
+
 세 가지 명령어를 통해 업로드할 수 있습니다
+
 git add . 는 변경된 사항을 전체적으로 저장하고
+
 git commit 은 "something" 부분에 설명을 적어 commit한 내용을 서술합니다.
+
 git push origin master 는 master 위치에 변경한 사항들을 push하여 적용합니다.
