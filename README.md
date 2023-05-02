@@ -27,6 +27,7 @@ git remote -v 명령어를 Terminal에 입력하면, 현재 연동 상태를 알
 git remote remove origin 명령어를 이용하여 연동을 해제할 수 있습니다.
 
 VS Code와 Github를 연동 후 수정한 파일을 Github에 업로드하고 싶다면
+
 git add .
 
 git commit -m "something"
